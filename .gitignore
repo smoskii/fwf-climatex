@@ -1,0 +1,79 @@
+# My Stuff
+.ipynb_checkpoints
+data
+.vscode
+.DS_Store
+*.DS_Store
+images
+fwf-docs
+fwf-docs/
+web_dev
+web_dev/
+# fwf-web
+# fwf-web/
+docs
+nm/
+nm
+web_dev/data
+*.nc
+zarr/
+node_modules
+node_modules/
+*.tgz
+web_dev/
+nm/
+web_dev
+nm
+fwf-web/
+fwf-web
+__pycache__
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/.DS_Store
